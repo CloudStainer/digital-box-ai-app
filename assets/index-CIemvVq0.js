@@ -90448,7 +90448,7 @@ function s7e(e = {}) {
   );
 }
 const Ou = {
-  appName: "Digitalabs",
+  appName: "Digital Box",
   appDescription: "",
   appIcon: "",
   walletConnectProjectId: "85592068ff421cca41bea4b013170bfc",
@@ -105856,7 +105856,7 @@ const dFe = new xTe({
                     className: "flex items-center gap-5",
                     children: [
                       O.jsx(Dd, {
-                        href: "https://t.me/Digitalabs_Chat",
+                        href: "https://t.me/Digital_Box_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: O.jsx("img", {
@@ -105866,17 +105866,7 @@ const dFe = new xTe({
                         }),
                       }),
                       O.jsx(Dd, {
-                        href: "https://discord.com/invite/digitalabs",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        children: O.jsx("img", {
-                          src: "/images/Discord.png",
-                          alt: "",
-                          className: "h-7",
-                        }),
-                      }),
-                      O.jsx(Dd, {
-                        href: "https://x.com/Digitalabs_AI",
+                        href: "https://x.com/Digital_Box_AI",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: O.jsx("img", {
@@ -105886,7 +105876,7 @@ const dFe = new xTe({
                         }),
                       }),
                       O.jsx(Dd, {
-                        href: "https://docs.digitalabs.ai/",
+                        href: "https://sorojins-organization.gitbook.io/digitalbox-ai",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: O.jsx("img", {
@@ -105902,7 +105892,7 @@ const dFe = new xTe({
               O.jsx("div", {
                 className:
                   "text-right text-sm text-gray-200 max-md:text-center ",
-                children: "© 2024 Digitalabs. All rights reserved.",
+                children: "© 2024 Digital Box. All rights reserved.",
               }),
             ],
           }),
@@ -109895,7 +109885,7 @@ const Eg = "0x0000000000000000000000000000000000000000",
                   "Join our community and ask Admin to activate all clusters",
                 textBtn: "Join community",
                 onClick: () => {
-                  window.open("https://t.me/Digitalabs_Chat", "_blank");
+                  window.open("https://t.me/Digital_Box_AI", "_blank");
                 },
               });
           }
@@ -109906,7 +109896,7 @@ const Eg = "0x0000000000000000000000000000000000000000",
                 message: "Please contact our Team for more information",
                 textBtn: "Join community",
                 onClick: () => {
-                  window.open("https://t.me/Digitalabs_Chat", "_blank");
+                  window.open("https://t.me/Digital_Box_AI", "_blank");
                 },
               })
             : mo({
@@ -111945,7 +111935,7 @@ const Mee = ({
       inputs: [],
       name: "collection",
       outputs: [
-        { internalType: "contract IDigitalabsNFT", name: "", type: "address" },
+        { internalType: "contract DigitalBoxNFT", name: "", type: "address" },
       ],
       stateMutability: "view",
       type: "function",
